@@ -6,3 +6,6 @@
 # Teste Calculadora Refatoracao
 <img width="1227" height="229" alt="image" src="https://github.com/user-attachments/assets/83c7b004-184f-48ec-9ad0-3f9cd31a91af" />
 
+# Teste Calculadora Comentado
+
+<img width="1309" height="283" alt="image" src="https://github.com/user-attachments/assets/2cd96151-96ea-4137-a786-bd83e8966660" />
